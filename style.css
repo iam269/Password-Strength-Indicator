@@ -46,12 +46,6 @@ button img {
     width: 35px;
 }
 
-    position: absolute
-    bottom: -30px;
-    color: #fff;
-    font-size: 15px;
-    display: none;
-}
 #message {
     position: absolute;
     bottom: -30px;
